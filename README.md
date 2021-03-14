@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pbeccaro
+- 👀 I’m interested in making in general
+- 🌱 I’m currently learning Python
+- 📫 How to reach me 99% of any ID online with "pbeccaro" is me!
